@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Qwigley&display=swap');
+.navbar-brand {
+  font-family: 'Qwigley', cursive;
+  color: #FFB30E;
+  font-size: 400px;
+  font-weight: 400px;
+}
+.b
+{
+background-color: white;
+height: 28vh;
+width: 500px;
+}
+.bb{
+  padding-left: 70px !important;
+}
+.form{
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 40px;
+  width: 220px;
+}
+.bg
+{
+  background-image:url(./images/contain.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60vh;
+  /* border-top:5px solid red;
+  border-bottom:5px solid red; */
+}
+.img1
+{
+  width: 350px;
+  height: 300px;
+} 
+.mt
+{
+  margin-top: 15%;
+}
+
+.px-3{
+  gap: 20px;
+}
+
+.px-4{
+  margin-left:50px;
+}
+.card-title
+{
+  text-align: center;
+  font-size: 15px;
+  font-weight: bolder;
+ 
+}
+
+.food
+{
+width: 250px;
+height: 250px;
+}
+.card-title
+{
+  text-align: left !important;
+  padding-left: 10px;
+  font-size: 20px;
+}
+.align{
+  gap: 10px !important;
+}
+.left h6
+{
+  color:#504F4F;
+  font-family: 'Qwigley', cursive;
+  margin-left: 60px;
+}
+.card-header
+{
+  margin-bottom: 80px !important;
+  font-weight: 900 !important;
+  font-size: 40px;
+  text-align: center;
+}
+.ma
+{
+  justify-content: center !important;
+  margin-top: 100px;
+}
+.grid{
+  padding: 20px 0px !important;
+  justify-content: center !important;
+  margin: 50px 0px 200px 0px;
+  border:3px solid aqua;
+  border-radius: 10px !important;
+}
+.left h1{
+  color: white;
+  font-family: 'Qwigley', cursive;
+  margin-left: 60px;
+}
+
+.clicks {
+  color: #504F4F;
+  font-family: 'Source Code Pro', monospace;
+  font-size: smaller;
+
+}
+.grid img{
+  width: 100px;height: 100px;
+}
+.subhead
+{
+  margin: 50px 0px !important;
+}
+.content img
+{
+  width: 200px;
+  height: 200px;
+  
+}
+.ss
+{
+  background-color: rgb(220, 221, 204);
+}
